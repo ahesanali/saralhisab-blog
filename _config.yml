@@ -13,7 +13,7 @@ baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
 twitter:     'https://www.twitter.com/saralhisab'
 github:      'https://github.com/ahesanali'
-instagram:   'https://www.instagram.com/ahesanali/'
+instagram:   'https://www.instagram.com/ahesanali_suthar/'
 facebook:    'https://www.facebook.com/saralhisab'
 
 markdown:  kramdown
