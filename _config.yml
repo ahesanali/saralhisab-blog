@@ -7,7 +7,7 @@
 
 # Site settings
 title:       SaralHisab Blog
-email:       ''
+email:       'feedback@saralhisab.com'
 description: 'Updates about saralhisab'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
