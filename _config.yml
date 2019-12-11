@@ -46,3 +46,8 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+#tipu search
+tipue_search:
+  include:
+    pages: true
+    collections: [apples, oranges]      
