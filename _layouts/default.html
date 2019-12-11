@@ -20,6 +20,16 @@
   <script src="{{ '/js/evil-icons.min.js' | prepend: site.baseurl }}">   </script>
   <script src="{{ '/js/jquery.fitvids.js' | prepend: site.baseurl }}">   </script>
   <script src="{{ '/js/app.js' | prepend: site.baseurl }}">              </script>
+  <script src="https://raw.githubusercontent.com/DataMcFly/jquery.camelhunter/master/jquery.camelhunter.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+        $("#search-field").camelHunter({
+          onKeyUp       : true,
+          rss: "/search.xml",
+          results   : "#results"
+        });
+    });
+  </script>
 </body>
 
 </html>
