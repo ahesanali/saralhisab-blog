@@ -14,7 +14,6 @@ My cousin’s friend get out pain from his  pocket and start writing on paper fr
 4. 500 gram iron pins
 5. 2 box of abro tap (correct exact word)
 
-(put pictures for all above items to understand exact item)
 
 A customer asked for approximately how much money they have to come up to purchase these items. My cousin’s friend replied some approximate amount.  Finally all the items had arrived at place and the work started. 
 
