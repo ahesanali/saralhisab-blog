@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Estimation story
-tags: [estimation, android, app, stpry]
+tags: [estimation, android, app, story]
 ---
 
 One day my neighbours were asking for a carpenter to renovate their house. They want to upgrade their home furniture and want to build some new items. They asked me to recommend a carpenter. I asked in my family and my cousin were ready to grab this opportunity.  He was little bit frustrated as he had done few less contract by himself.  So he came up with his friend who is well known furniture contractor.  They both came up and sit with my neighbour. My neighbour started with their requirements and finally business talk started. And my neighbour asked for what material to purchase before they start work. 
