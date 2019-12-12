@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Estimation app success story
+image: '/images/posts/estimation_slogan.png'
 tags: [estimation, android, app, story]
+date: 12-12-2019
+author: AhesanAli Suthar
 ---
 Before 5 years i was present in one business deal about appartment furniture. And from that business deal i just figure out the concept of [estimation android](https://play.google.com/store/apps/details?id=com.sutharestimation&hl=en) app. 
 
