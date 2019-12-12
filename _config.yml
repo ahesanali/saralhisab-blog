@@ -10,7 +10,7 @@ title:       SaralHisab Blog
 email:       'feedback@saralhisab.com'
 description: 'Updates about saralhisab'
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
+url:         'https://story.saralhisab.com/' # The base hostname & protocol for your site
 twitter:     'https://www.twitter.com/saralhisab'
 github:      'https://github.com/ahesanali'
 instagram:   'https://www.instagram.com/ahesanali_suthar/'
