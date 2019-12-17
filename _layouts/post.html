@@ -15,7 +15,15 @@ layout: default
       <article class='c-post' itemscope itemtype='http://schema.org/BlogPosting'>
 
         <h1 class='c-post__title u-text-center'>{{ page.title }}</h1>
+        {% assign author = site.data.authors[page.author] %}
 
+        <!-- Output author details if some exist. -->
+        {% if author %}
+            <span>
+                <!-- Personal Info. -->
+                Written by <a href="{{ author.web }}">{{ author.name }}</a>
+            </span>
+        {% endif %}
         <time class='c-post__date' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>{{ page.date | date: '%d %b %Y' }}</time>
 
         <div class='c-content' itemprop='articleBody'>

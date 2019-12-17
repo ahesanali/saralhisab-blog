@@ -25,5 +25,5 @@ A customer asked for approximately how much money they have to come up to purcha
 
 I observed the complete story and figure out my position as a software engineer. At that time i was a passionate android developer. So quickly decided to build a mobile app to share these type pf estimates. Also they have records of all old estimations that they have provided to their customers.
 
-Here is the short over of the [estimation app](https://www.youtube.com/watch?v=03aom2_Udyw&t=82s).
+Here is the short overview of the [estimation app](https://www.youtube.com/watch?v=03aom2_Udyw&t=82s).
 Try the app and enjoy estimating.
