@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About
-image: '/images/pages/about.jpeg'
+image: '/images/pages/FullSizeRender.jpg'
 ---
+SaralHisab is an apps gallery that delivers app that delights users. Uptill now saralhisab has released 3 apps which are availabel on google play store which are listed below.
 
-You love Minimalism, and you also love writing, Type is designed for you. Type focus on showing your content in a clean and simple way, focus on images, typography, and white space.
+1. (saralhisab)[https://play.google.com/store/apps/details?id=com.saralhisab]: Minimal income and expense tracking app which suits for individual, family or business.
+2. (Estimation)[https://play.google.com/store/apps/details?id=com.sutharestimation]: Digital experience to share beatiful estimations to your customer about the products or services that you sell.
+3. (Saral Invoice)[https://play.google.com/store/apps/details?id=com.saralhisab.estimationpro]: A perfect fit for a business to track estimates and raise invoices right from your mobile device. It also offers tracking payments for the invoice.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
