@@ -2,7 +2,7 @@
 layout: post
 title: SaralHisab-Search Your Transactions
 tags: [saralhisab, android, app]
-date: 22-12-2019
+date: 12-22-2019
 author: AhesanAli Suthar
 ---
 Generally i visit the saloon monthly. I also log the expense in my diary in [saralhisab app] (https://saralhisab.com).
