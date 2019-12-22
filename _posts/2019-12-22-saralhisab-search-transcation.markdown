@@ -13,7 +13,7 @@ Once one month pass it's time to cut the hair i have to look inside previous mon
 
 To overcome this issue saralhisab added general search for expense and income transactions. Just hit the search menu in from navigation
 
-[Search menu] (/images/pages/search_menu.png)
+![Search menu] (/images/pages/search_menu.png)
 
 Enter your search query and choose the option where you wanted to search and finally hit the search button.
 
