@@ -17,6 +17,6 @@ To overcome this issue saralhisab added general search for expense and income tr
 
 Enter your search query and choose the option where you wanted to search and finally hit the search button.
 
-[Search Result](/images/pages/search_result.png)
+![Search Result](/images/pages/search_result.png)
 
 Now i can easily see my recurring expense or income from all transactions. I mean from all the diaries that i have created.
